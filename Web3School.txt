@@ -1,0 +1,30 @@
+https://www.w3schools.com/w3css/tryw3css_templates_band.htm
+I.Các bước xây dựng 1 trang web
+	1. Phân tích
+	2. Xây dựng bản vẽ
+	3. Xây dựng chi tiết từng thành phần
+	4. Kiểm tra lại toàn bộ 
+II.Các bươc phân tích 1 trang web
+	1. Header( đầu trang)
+	2. Nav (Phần điều hướng của trang)
+	3. Breadrum(chỉ vị trí bạn ở đâu)
+	4. SideBar (thanh nằm phía trái hoặc phải)
+	5. Sider (thường là hình ảnh quảng cáo trượt trượt)
+	6. Content: nội dụng trang
+	7. Footer: Chân trang
+	8. Banner: ảnh quảng cáo
+III. Đi làm
+1.Header
+2.Sider
+3.Content
+4.Footer
+
+//cách làm 1 chi tiết website
+1. Vị trí
+2. Kích thước
+3. Màu sắc
+4.Kiểu dáng
+//nguyên tắc làm việc
+1. Từ ngoài vào trong
+2. Từ trên xuống dưới
+3. Từ tổng quan đến chi tiết
